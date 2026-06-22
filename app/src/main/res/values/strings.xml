@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Glass Player</string>
+
+    <string name="nav_library">Library</string>
+    <string name="nav_albums">Albums</string>
+    <string name="nav_artists">Artists</string>
+    <string name="nav_playlists">Playlists</string>
+
+    <string name="action_scan">Scan device for music</string>
+    <string name="scan_in_progress">Scanning your device for music…</string>
+    <string name="scan_done">%1$d tracks found</string>
+    <string name="scan_empty">No music found on this device</string>
+    <string name="scan_retry">Try again</string>
+
+    <string name="permission_title">Music access</string>
+    <string name="permission_message">To scan and play songs stored on your phone, allow access to audio files.</string>
+    <string name="permission_grant">Allow</string>
+    <string name="permission_denied">Without this permission, local music can\'t be shown.</string>
+
+    <string name="search_hint">Search songs, artists or albums…</string>
+
+    <string name="now_playing">Now Playing</string>
+    <string name="up_next">Up next</string>
+    <string name="lossless_badge">Lossless</string>
+
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_next">Next</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_shuffle">Shuffle</string>
+    <string name="action_repeat">Repeat</string>
+    <string name="action_queue">Queue</string>
+    <string name="action_favorite">Add to favorites</string>
+
+    <string name="unknown_artist">Unknown artist</string>
+    <string name="unknown_album">Unknown album</string>
+    <string name="unknown_title">Untitled</string>
+
+    <string name="empty_state_title">Your library is empty</string>
+    <string name="empty_state_subtitle">Scan your device to find music stored locally.</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_rescan">Rescan device</string>
+    <string name="settings_theme">Gotham dark mode</string>
+    <string name="settings_language">App language</string>
+</resources>
